@@ -6,8 +6,8 @@ body{
     background-color: rgb(48, 63, 50);
     color: aliceblue;
     font-size: 16px;
-    width: 100vw;
-    height: 100vh;
+    /* width: 100vw;
+    height: 100vh; */
     font-family: "Gill Sans", sans-serif;
 
 }
