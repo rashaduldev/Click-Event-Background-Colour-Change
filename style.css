@@ -32,7 +32,7 @@ button{
     text-transform: uppercase;
 }
 button:hover{
-    background-color: #fff;
+    background-color: #090df7;
     color: black;
     border: 1px solid black;
 }
